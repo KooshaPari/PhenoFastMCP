@@ -45,3 +45,16 @@ Deployable servers depend on this package; they do **not** vendor framework code
 - `phenotype/superset` — integration branch for merged useful upstream branches
 
 See `FORK-NOTES.md` for branch merge inventory and sync commands.
+
+---
+
+## Polyglot Fork Status (2026-09-01)
+
+This fork is being extended from a Python-only fastmcp fork to a true polyglot
+MCP framework. The IDL bindings live under `core/mcp-idl/` with first-class
+support for Rust and Go, and slots for additional runtimes (`more/`).
+
+Per the 2026-09-01 audit decision: `KooshaPari/PhenoMCPServers` remains the
+canonical registry of made MCP servers; this fork remains the polyglot framework.
+
+See: `phenotype-registry/ecosystem-consolidation/dossier/TIER3-P2-MCP-POLYGLOT.md`
