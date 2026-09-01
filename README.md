@@ -12,6 +12,8 @@
 
 <strong>Move fast and make things.</strong>
 
+[![AI slop inside](https://sladge.net/badge.svg)](https://sladge.net) [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/KooshaPari/PhenoFastMCP/total)](https://github.com/KooshaPari/PhenoFastMCP/releases)
+
 *Made with 💙 by [Prefect](https://www.prefect.io/)*
 
 [![Docs](https://img.shields.io/badge/docs-gofastmcp.com-blue)](https://gofastmcp.com)
